@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>PartProductSyncBatch</members>
+		<members>PartProductSyncFullTest</members>
+		<members>PartProductSyncScheduler</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>SQX_Part__c.SQX_Active__c</members>
+		<members>SQX_Part__c.SQX_Part_Number__c</members>
+		<members>SQX_Part__c.SQX_Product__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>SQX_Part__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>CQ_Product_Admin</members>
+		<name>PermissionSet</name>
+	</types>
+	<version>64.0</version>
+</Package>
